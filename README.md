@@ -5,7 +5,7 @@ File Proyek untuk React Navigation 2.0 Tutorial AgungMN on YouTube
 React Navigation 2.0 Tutorial 
 Gandakan proyek ke komputer Anda dan pasang dependensi
 
-$ git clone https://github.com/agungmn/Tutorial-React-Navigation/.git
+$ git clone https://github.com/agungmn/Tutorial-React-Navigation
 $ cd MyProject
 Instal $ npm
 Buka Proyek dalam Expo
